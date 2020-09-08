@@ -1,0 +1,3 @@
+{
+    "mongoDB_Conn_URL": "mongodb+srv://vigordb:rUxtGkSlvWu0fwFy@cluster0-o66je.mongodb.net/buzzboard?retryWrites=true&w=majority"
+}
